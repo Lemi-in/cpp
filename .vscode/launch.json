@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/user/Desktop/play_ground",
-      "program": "c:/Users/user/Desktop/play_ground/build/Debug/outDebug",
+      "cwd": "c:/Users/user/Desktop/play_ground/Beginner",
+      "program": "c:/Users/user/Desktop/play_ground/Beginner/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
